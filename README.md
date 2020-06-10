@@ -154,7 +154,7 @@ Supported Platforms
 -------------------
 
 - iOS
-- Android 5+
+- Android
 
 Quick Example
 -------------
